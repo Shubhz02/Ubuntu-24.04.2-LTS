@@ -19,4 +19,4 @@ in virtual box
 2) Name : Ubuntu
 3) folder : (where u want install)
 4) select ISO image (ubuntu downloae file select)
-5) 
+5) installing and finish.
